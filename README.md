@@ -3,12 +3,12 @@
 <h2>:computer: Information Technology Projects: :computer:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/cscottspain/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/cscottspain/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/cscottspain/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/cscottspain/osticket-prereqs) (WIP)
+  - [osTicket: Post-Installation Configuration](https://github.com/cscottspain/post-install-config) (WIP)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/cscottspain/ticket-lifecycle) (WIP)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cscottspain/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cscottspain/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cscottspain/configure-ad) (WIP)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cscottspain/azure-network-protocols) (WIP)
 
 <h2>:calling: Connect with me:</h2>
 
