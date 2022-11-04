@@ -1,6 +1,6 @@
-<h1>Salutations! I'm Charles, an <a href="https://linkedin.com/in/cscottspain">IT Professional!</a>:desktop_computer:</h1>
+<h1>Salutations! I'm Charles, an :desktop_computer: <a href="https://linkedin.com/in/cscottspain">IT Professional!</a> :desktop_computer:</h1>
 
-<h2>:computer: Information Technology Projects:</h2>
+<h2>:computer: Information Technology Projects: :computer:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/cscottspain/osticket-prereqs)
